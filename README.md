@@ -16,7 +16,7 @@ A Flutter application for managing and displaying exam schedules.
 2. Run `flutter pub get` to install dependencies
 3. Run `flutter run` to start the app
 
-## Screenshots
+## Video of the mobile app
 
 [![Watch the video of the mobile app](https://vumbnail.com/1135538341.jpg)](https://vimeo.com/1135538341)
 
