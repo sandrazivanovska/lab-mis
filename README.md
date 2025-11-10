@@ -18,5 +18,5 @@ A Flutter application for managing and displaying exam schedules.
 
 ## Video of the mobile app
 
-[![Watch the video](https://vumbnail.com/1135538341.jpg)](https://vimeo.com/1135538341)
+[![Watch the video](https://vumbnail.com/1135538341.jpg?play)](https://vimeo.com/1135538341)
 
