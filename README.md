@@ -8,7 +8,7 @@ A Flutter application for managing and displaying exam schedules.
 - Color-coded past and upcoming exams
 - Detailed exam information
 - Time remaining until each exam
-- Beautiful card-based UI
+- Card-based UI
 
 ## Getting Started
 
@@ -18,5 +18,5 @@ A Flutter application for managing and displaying exam schedules.
 
 ## Screenshots
 
-[Screenshots or videos will be added here]
+[![Watch the video of the mobile app](https://vumbnail.com/1135538341.jpg)](https://vimeo.com/1135538341)
 
